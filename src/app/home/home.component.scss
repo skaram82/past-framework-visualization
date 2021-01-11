@@ -16,6 +16,9 @@
 }
 
 @media (max-width: 992px) {
+	#hero {
+		height: 100%;
+	}
 	#heroImage {
 		background: url(../../assets/images/hero_image_sm.png) center top / contain no-repeat;
 		height: 60%;
